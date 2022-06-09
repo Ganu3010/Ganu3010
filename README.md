@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on self-driving vehicle projects.
 - 📫 You can reach me on manas0sewatkar@gmail.com and we can discuss over collaborating.
 - 🤹 My skills include:
-- ![C++]([http://url/to/img.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png))
+- ![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png)
 
 <!---
 Ganu3010/Ganu3010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
