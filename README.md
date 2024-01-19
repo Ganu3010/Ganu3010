@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganu3010&label=Profile%20hits&color=009dff&style=plastic" alt="ganu3010" /> </p>
 
-- 🔭 I’m currently working on [Fault Classification in Dairy Industry](https://github.com/Ganu3010/Fault_Detection)
+- 🔭 I’m currently working on [3D Object Detection](https://github.com/Ganu3010/3DOD)
 
 - 🌱 I’m currently learning **PyTorch, Deep Learning, Reinforcement Learning**
 
-- 👯 I’m looking to collaborate on **Music Generation Web App**
+- 👯 I’m looking to collaborate on **Atari Reinforcement Learning Agents**
 
-- 💬 Ask me about **Machine Learning, Linear and Logistic Regression, Neural Networks**
+- 💬 Ask me about **Machine Learning, Reinforcement Learning, CNNs**
 
 - 📫 How to reach me **manas0sewatkar@gmail.com**
 
