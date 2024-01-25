@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manas0sewatkar@gmail.com**
 
-- ⚡ Fun fact **People seem stupid once you get to know them.**
+- ⚡ Living by **One must imagine Sisyphus happy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
