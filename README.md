@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganu3010&label=Profile%20hits&color=009dff&style=plastic" alt="ganu3010" /> </p>
 
-- 🔭 I’m currently working on [3D Object Detection](https://github.com/Ganu3010/3DOD)
+- 🔭 I’m currently working on **Weather Based Disease Prediction using IoT and ML Systems**
 
-- 🌱 I’m currently learning **PyTorch, Deep Learning, Reinforcement Learning**
+- 🌱 I’m currently learning **Azure Machine Learning, Deploying ML models on Edge Devices**
 
-- 👯 I’m looking to collaborate on **Atari Reinforcement Learning Agents**
+- 👯 I’m looking to collaborate on **GPS-Denied Autonomous Navigation**
 
 - 💬 Ask me about **Machine Learning, Reinforcement Learning, CNNs**
 
