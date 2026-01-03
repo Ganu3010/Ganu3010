@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manas Sewatkar</h1>
-<h3 align="center">Machine Learning enthusiast with interests in Self Driving Vehicles and Computer Vision</h3>
+<h3 align="center">Graduate Student studying Artificial Intelligence with interests in Robotics and Smart Agriculture</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganu3010&label=Profile%20hits&color=009dff&style=plastic" alt="ganu3010" /> </p>
 
-- 🔭 I’m currently working on **Weather Based Disease Prediction using IoT and ML Systems**
+- 🔭 I’m currently working on **Visual Servoing for Autonomous Agricultural Robots**
 
-- 🌱 I’m currently learning **Azure Machine Learning, Deploying ML models on Edge Devices**
+- 🌱 I’m currently learning **Closed Loop RL for Robotic Navigation**
 
 - 👯 I’m looking to collaborate on **GPS-Denied Autonomous Navigation**
 
-- 💬 Ask me about **Machine Learning, Reinforcement Learning, CNNs**
+- 💬 Ask me about **Reinforcement Learning, Image Processing, CNNs, LLMs**
 
 - 📫 How to reach me **manas0sewatkar@gmail.com**
 
